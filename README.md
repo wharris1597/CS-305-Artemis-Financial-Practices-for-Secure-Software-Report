@@ -1,6 +1,6 @@
 # CS-305-Artemis-Financial-Practices-for-Secure-Software-Report
 
-    The client for this particular assignment is Artmeis Financial, 
+   The client for this particular assignment is Artmeis Financial, 
 a finance company seeking a secure website to transact its patron's 
 funds. To accomplish this, I inplemented the secure protocol AES-256 
 CBC to hash user data before sending it over the internet to and from 
